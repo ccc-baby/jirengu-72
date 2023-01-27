@@ -1,3 +1,3 @@
 # jirengu-72
-<head>
-<body>
+<head></head>
+  <body></body>
